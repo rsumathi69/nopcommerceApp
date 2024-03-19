@@ -1,0 +1,34 @@
+03/18/2024 04:01:58 PM: INFO:PID- 7896: TID-11896: *********** Verifying test_login ***************** 
+03/18/2024 04:02:02 PM: INFO:PID- 7896: TID-11896: *********** login successful *****************
+03/18/2024 04:02:02 PM: INFO:PID- 7896: TID-11896: *********** starting Add customer Test *****************
+03/18/2024 04:02:04 PM: INFO:PID- 7896: TID-11896: **************Providing customer info***************
+03/18/2024 04:02:09 PM: INFO:PID- 7896: TID-11896: **************saving customer info***************
+03/18/2024 04:02:09 PM: INFO:PID- 7896: TID-11896: **************validating add customer information started ***************
+03/18/2024 04:02:10 PM: INFO:PID- 7896: TID-11896: ****************Add customer Test passed ****************
+03/18/2024 04:02:10 PM: INFO:PID- 7896: TID-11896: ****************Ending Add customer Test ****************
+03/18/2024 04:02:11 PM: INFO:PID- 7896: TID-11896: *********** Test_001_login ***************** 
+03/18/2024 04:02:11 PM: INFO:PID- 7896: TID-11896: *********** Verifying Home Page Title ***************** 
+03/18/2024 04:02:12 PM: INFO:PID- 7896: TID-11896: *********** Verifying Home Page Title passed  ***************** 
+03/18/2024 04:02:14 PM: INFO:PID- 7896: TID-11896: *********** Verifying test_login ***************** 
+03/18/2024 04:02:18 PM: INFO:PID- 7896: TID-11896: *********** Verifying test_login passed ***************** 
+03/18/2024 04:03:20 PM: INFO:PID- 16872: TID-15456: *********** Verifying test_login ***************** 
+03/18/2024 04:03:22 PM: INFO:PID- 16872: TID-15456: *********** login successful *****************
+03/18/2024 04:03:22 PM: INFO:PID- 16872: TID-15456: *********** starting Add customer Test *****************
+03/18/2024 04:03:24 PM: INFO:PID- 16872: TID-15456: **************Providing customer info***************
+03/18/2024 04:03:29 PM: INFO:PID- 16872: TID-15456: **************saving customer info***************
+03/18/2024 04:03:29 PM: INFO:PID- 16872: TID-15456: **************validating add customer information started ***************
+03/18/2024 04:03:30 PM: INFO:PID- 16872: TID-15456: ****************Add customer Test passed ****************
+03/18/2024 04:03:30 PM: INFO:PID- 16872: TID-15456: ****************Ending Add customer Test ****************
+03/18/2024 04:03:32 PM: INFO:PID- 16872: TID-15456: *********** Test_001_login ***************** 
+03/18/2024 04:03:32 PM: INFO:PID- 16872: TID-15456: *********** Verifying Home Page Title ***************** 
+03/18/2024 04:03:33 PM: INFO:PID- 16872: TID-15456: *********** Verifying Home Page Title passed  ***************** 
+03/18/2024 04:03:34 PM: INFO:PID- 16872: TID-15456: *********** Verifying test_login ***************** 
+03/18/2024 04:03:38 PM: INFO:PID- 16872: TID-15456: *********** Verifying test_login passed ***************** 
+03/18/2024 04:03:57 PM: INFO:PID- 8020: TID-8748: *********** Verifying test_login ***************** 
+03/18/2024 04:04:01 PM: INFO:PID- 8020: TID-8748: *********** login successful *****************
+03/18/2024 04:04:01 PM: INFO:PID- 8020: TID-8748: *********** starting Add customer Test *****************
+03/18/2024 04:04:14 PM: INFO:PID- 8020: TID-8748: *********** Test_001_login ***************** 
+03/18/2024 04:04:14 PM: INFO:PID- 8020: TID-8748: *********** Verifying Home Page Title ***************** 
+03/18/2024 04:04:16 PM: INFO:PID- 8020: TID-8748: *********** Verifying Home Page Title passed  ***************** 
+03/18/2024 04:04:27 PM: INFO:PID- 8020: TID-8748: *********** Verifying test_login ***************** 
+03/18/2024 04:04:29 PM: INFO:PID- 8020: TID-8748: *********** Verifying test_login passed ***************** 
